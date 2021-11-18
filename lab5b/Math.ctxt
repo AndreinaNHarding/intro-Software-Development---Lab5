@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Math
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Math\ here.\r\n\r\n\ @author\ (Andreina\ Nunez)\r\n\ @version\ (2019/02/13)\r\n
+comment1.params=x\ y
+comment1.target=int\ divide(int,\ int)
+comment1.text=\r\n\ Method\ divide\r\n\r\n\ @param\ x\ \r\n\ @param\ y\ \r\n\ @return\ division\ x/y\r\n
+comment2.params=x\ y
+comment2.target=int\ max(int,\ int)
+comment2.text=\r\n\ Method\ max\r\n\r\n\ @param\ x\r\n\ @param\ y\ \r\n\ @return\ The\ grater\ number\ x\ or\ y\r\n
+comment3.params=x
+comment3.target=int\ triple(int)
+comment3.text=\r\n\ Method\ triple\r\n\r\n\ @param\ x\ \r\n\ @return\ x\ times\ three\r\n
+comment4.params=x\ y
+comment4.target=int\ remainder(int,\ int)
+comment4.text=\r\n\ Method\ remainder\r\n\r\n\ @param\ x\ \r\n\ @param\ y\ \r\n\ @return\ The\ remainder\ of\ the\ division\ x/y\r\n
+comment5.params=operation
+comment5.target=boolean\ isValidOperation(java.lang.String)
+comment5.text=\r\n\ Method\ isValidOperation\r\n\r\n\ @param\ operation\ \r\n\ @return\ operator\ ("*","/","%","+"\ or\ "-")\r\n
+numComments=6
